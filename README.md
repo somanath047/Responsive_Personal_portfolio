@@ -1,0 +1,15 @@
+➡️PERSONAL PORTFOLIO WEBSITE                                                                                                                                                      
+---> Welcome to my personal portfolio website! This project showcases my work, skills, and experience in a responsive and visually appealing manner.The website is designed to adapt to all device sizes, including mobile, and offers features like theme color customization and light/dark mode toggling.
+                                                                                                                                                                                                                                                                                                            
+➡️FEATURES                                                                                                                                                                                   
+1.Responsive Design: Ensures the website looks great on all devices, from desktops to mobile phones📱.                                                                                               
+2.Theme Color Change: Users can change the website’s theme color to suit their preferences🏳️‍🌈.                                                                                                 
+3.Light/Dark Mode: Toggle between light and dark modes for a better user experience in different lighting conditions(☀️🌙). 
+
+                                                                                                                                                                                                                                                                                                               
+💻TECHNOLOGIES USED                                                                                                                                                                         
+➡HTML5(index.html)                                                                                                                                                                             
+➡CSS3(style.css , style-switcher.css and skin css files)                                                                                                                                
+➡JavaScript(script.js , style-switcher.js)                                                                                                                                            
+➡Google Fonts(Poppins,Clicker Script)                                                                                                                                                        
+➡Font Awesome (for icons)                                                                                                                                                                                                                                                                                                                                                  
